@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/MxLcQSkF/Chat-GPT-Image-Apr-15-2025-12-35-16-AM.png)
 # 'Vzorvat' - x64 Windows Reverse Shell
 
 A position-independent, null-free x64 reverse shell payload for Windows systems, written in assembly (437 Bytes & NASM Syntax).
